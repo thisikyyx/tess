@@ -1,13 +1,13 @@
 {
-    "wait": "Wait a minute, data is being processed!",
+    "wait": "Tunggu Bentar Jing,Lagi diproses",
     "error": {
-        "Iv": "Link yang kamu berikan tidak valid",
-        "api": "Maaf terjadi kesalahan"
+        "Iv": "Ngasih Link yang bener njeng,gavalid tu",
+        "api": "Terjadi Kesalahan Broko"
     },
-    "OnlyGrup": "Perintah ini hanya bisa digunakan di grup",
-    "OnlyPM": "Perintah ini hanya bisa digunakan di private message",
-    "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup",
-    "BotAdmin": "Bot Harus menjadi admin",
-    "OnlyOwner": "Perintah ini hanya dapat digunakan oleh owner bot",
-    "OnlyPrem": "Perintah ini khusus member premium"
+    "OnlyGrup": "Perintahnya cuma bisa di Group Jink",
+    "OnlyPM": "Perintahnya cuma bisa di Private Message bgst",
+    "GrupAdmin": "Cuma Bisa Buat admin,fiturnya",
+    "BotAdmin": "Jadiin Bot Admin WOII",
+    "OnlyOwner": "lu Bukan owner gua bangsat",
+    "OnlyPrem": "Premnya Kakakakakk"
 }
